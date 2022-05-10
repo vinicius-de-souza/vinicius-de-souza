@@ -7,7 +7,7 @@
 - 💼 &nbsp; Trabalhando como **Desenvolvedor de Sites em WordPress** na <a href="https://www.juliochristo.com/">JC Digital Solutions</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Back-End**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3>  &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
 
