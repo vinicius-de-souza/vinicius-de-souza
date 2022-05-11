@@ -4,7 +4,7 @@
 <h3>  &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando **Ciência da Computação** na <a href="https://www2.ufjf.br/ufjf/">Universidade Federal de Juiz de Fora</a>.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor de Sites em WordPress** na <a href="https://www.juliochristo.com/">JC Digital Solutions</a>
+- 💼 &nbsp; Trabalhando como **Webd Dev* na <a href="https://www.juliochristo.com/">JC Digital Solutions</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Back-End**.
 
 <h3>  &nbsp;Minhas Skills </h3>
