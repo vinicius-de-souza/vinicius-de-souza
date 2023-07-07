@@ -3,7 +3,7 @@
 <h3>  &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando **Ciência da Computação** na <a href="https://www2.ufjf.br/ufjf/">Universidade Federal de Juiz de Fora</a>.
-- 💼 &nbsp; Trabalhando como *QA Analyst* na <a href="https://maislaudo.com.br/">Mais Laudo</a> e como **Web Dev** na <a href="https://institutociclosensino.com.br/">Instituto Ciclos Ensino</a>
+- 💼 &nbsp; **QA Analyst** na <a href="https://maislaudo.com.br/">Mais Laudo</a> 
 - 🌱 &nbsp; Aprendendo mais sobre **Back-End e Quality Assurance**.
 
 <h3>  &nbsp;Minhas Skills </h3>
