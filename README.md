@@ -32,6 +32,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/vinicius-d-souza/))
+[![Linkedin: Vinicius de Souza](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/vinicius-d-souza/))
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:vsouza@ice.ufjf.br)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/vinicius-de-souza?label=follow&style=social)](github.com/vinicius-de-souza)
+[![GitHub Vinicius de Souza]( https://img.shields.io/github/followers/vinicius-de-souza?label=follow&style=social)](github.com/vinicius-de-souza)
